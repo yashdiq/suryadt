@@ -32,6 +32,4 @@ nb: you can create the number of concurrent tests by changing number `10` to any
 
 ### Swagger Documentation
 
-```
-http://localhost:3000/api
-```
+[http://localhost:3000/api](http://localhost:3000/api)
