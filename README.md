@@ -1,6 +1,6 @@
 ## Description
 
-[Nest](https://github.com/nestjs/nest) Scheduler example for Birthday with different timezones
+[Nest](https://github.com/nestjs/nest) Scheduler for birthday message with different timezones
 
 ## Project setup
 
@@ -29,3 +29,9 @@ $ ./concurrent-request.sh
 ```
 
 nb: you can create the number of concurrent tests by changing number `10` to any number
+
+### Swagger Documentation
+
+```
+http://localhost:3000/api
+```
